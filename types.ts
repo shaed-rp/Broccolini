@@ -53,7 +53,12 @@ export interface Question {
   field: string;
   observation: string;
   ambiguity: string;
-  options: { text: string; value: string; tradeoff: string }[];
+  options: { 
+    text: string; 
+    value: string; 
+    tradeoff: string;
+    suggestedRationale: string; // Pre-populated rationale
+  }[];
   course: Course;
   recommendedIndex?: number;
   recommendationConfidence?: Confidence;
