@@ -1,0 +1,5 @@
+{
+  "name": "Big Query Broccolini: Schema Quest",
+  "description": "A gamified data schema normalization tool featuring Big Query Broccolini. Transform raw, messy data into structured Bronze, Silver, and Gold medallion layers with intelligent architecture normalization.",
+  "requestFramePermissions": []
+}
