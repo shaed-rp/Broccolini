@@ -13,7 +13,7 @@ import ChefDisplay from './components/ChefDisplay';
 import StatsPanel from './components/StatsPanel';
 import RecipeCardView from './components/RecipeCardView';
 
-const INITIAL_MESSAGE = "Welcome back to the kitchen Slick Eddie! 🥦 I'm Big Queryini Broccolini, Senior Data Chef. I've been at Big Q for a decade perfecting Project CRISTIAN. Upload your raw data or drop a link, and let's plate a perfect Medallion Schema. Clean data! ✨";
+const INITIAL_MESSAGE = "Welcome back to the kitchen! 🥦 I'm Big Queryini Broccolini, Senior Data Chef. I've been at Big Q for a decade perfecting Project CRISTIAN. Upload your raw data or drop a link, and let's plate a perfect Medallion Schema. Clean data! ✨";
 
 const SYNTHESIS_STEPS = [
   "Harvesting decision metadata...",
